@@ -4,7 +4,7 @@
         "definition": "Die Fähigkeit einer Maschine, Aufgaben zu erledigen, die normalerweise menschliche Intelligenz erfordern, wie das Lernen, das Verstehen von natürlicher Sprache und das Problemlösen.",
         "explanation": "Künstliche Intelligenz (KI) ermöglicht es Maschinen, komplexe Aufgaben zu erledigen, die traditionell menschlicher Intelligenz vorbehalten sind. Sie basiert auf Algorithmen, die Muster in Daten erkennen und daraus lernen können.",
         "examples": [
-            "Automatisierte Spracherkennungssysteme",
+            "Spracherkennungssysteme",
             "Bilderkennung in der Medizin"
         ]
     },
@@ -23,7 +23,6 @@
         "explanation": "Neuronale Netze sind eine Grundlage der KI und funktionieren sehr ähnlich wie unsere Neuronen, dadurch entsteht der Name „Neuronale Netzwerke“, da es sich ähnelt wie der Menschliche Gehirn.",
         "examples": [
             "Autonomes Fahren",
-            "Frühwarnsysteme",
             "Bilderkennung",
             "Betrugserkennung",
             "Medizinische Analysen",
