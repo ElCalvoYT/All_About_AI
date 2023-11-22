@@ -1,0 +1,33 @@
+[
+    {
+        "term": "Künstliche Intelligenz",
+        "definition": "Die Fähigkeit einer Maschine, Aufgaben zu erledigen, die normalerweise menschliche Intelligenz erfordern, wie das Lernen, das Verstehen von natürlicher Sprache und das Problemlösen.",
+        "explanation": "Künstliche Intelligenz (KI) ermöglicht es Maschinen, komplexe Aufgaben zu erledigen, die traditionell menschlicher Intelligenz vorbehalten sind. Sie basiert auf Algorithmen, die Muster in Daten erkennen und daraus lernen können.",
+        "examples": [
+            "Automatisierte Spracherkennungssysteme",
+            "Bilderkennung in der Medizin"
+        ]
+    },
+    {
+        "term": "Maschinelles Lernen",
+        "definition": "Ein Bereich der künstlichen Intelligenz, der es Maschinen ermöglicht, aus Erfahrungen zu lernen, ohne explizit programmiert zu werden.",
+        "explanation": "Maschinelles Lernen ermöglicht es Maschinen, Muster in Daten zu identifizieren und daraus zu lernen, ohne dass sie direkt programmiert werden müssen. Es spielt eine entscheidende Rolle in verschiedenen Anwendungen von KI.",
+        "examples": [
+            "Empfehlungssysteme in Online-Plattformen",
+            "Betrugsprävention in Finanztransaktionen"
+        ]
+    },
+    {
+        "term": "Neuronale Netze",
+        "definition": "Teilbereich der Disziplin des maschinellen Lernens (ML) und stellen das Herzstück von Deep learning -Algorithmen dar. Ihr Name und ihre Struktur sind dem menschlichen Gehirn nachempfunden und sie ahmen die Art und Weise nach, in der biologische Neuronen einander Signale senden.",
+        "explanation": "Neuronale Netze sind eine Grundlage der KI und funktionieren sehr ähnlich wie unsere Neuronen, dadurch entsteht der Name „Neuronale Netzwerke“, da es sich ähnelt wie der Menschliche Gehirn.",
+        "examples": [
+            "Autonomes Fahren",
+            "Frühwarnsysteme",
+            "Bilderkennung",
+            "Betrugserkennung",
+            "Medizinische Analysen",
+            "Wettervorhersagen"
+        ]
+    }
+]
