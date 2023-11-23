@@ -157,21 +157,21 @@
         "examples": [
           "Künstliche Intelligenz (z.B., Netzwerke von Endgeräten, selbstfahrende Autos)"
         ]
-      },
-      {
+    },
+    {
         "term": "Blockchain in AI",
         "definition": "Blockchain ist wie ein digitales, gemeinsam genutztes Konto, das es verschiedenen Parteien ermöglicht, sicher und transparent verschlüsselte Daten auszutauschen. Es verfolgt Bestellungen, Zahlungen, Konten und mehr, wodurch genehmigte Mitglieder Vertrauen in Transaktionen gewinnen und Effizienzen steigern.",
         "explanation": "Blockchain ermöglicht es, Daten sicher und transparent zwischen verschiedenen Parteien auszutauschen, indem es eine dezentrale und unveränderliche Aufzeichnung verwendet. Dies fördert Vertrauen und Effizienz, insbesondere wenn es um komplexe Transaktionen wie im Finanzwesen oder in Lieferketten geht.",
         "examples": [
           "Gesundheitswesen (z.B., Patientendatenmanagement, Medikamenten-Lieferkette in den Biowissenschaften)"
         ]
-      },
-      {
+    },
+    {
         "term": "Explainable AI",
         "definition": "Explainable AI (XAI) befasst sich damit, die Frage nach der Erklärbarkeit von künstlicher Intelligenz zu beantworten. Es geht darum zu verstehen, wie und warum KI-Algorithmen Entscheidungen treffen.",
         "explanation": "Explainable AI ist wie ein Fenster in den Denkprozess von KI. Es ermöglicht, die Gründe hinter den Entscheidungen zu verstehen, indem Algorithmen transparent arbeiten oder im Nachhinein erklären, warum sie so entschieden haben.",
         "examples": [
           "Künstliche Intelligenz (z.B., Vertrauensbildung in Entscheidungen von komplexen Algorithmen)"
         ]
-      }
-    ]
+    }
+]
