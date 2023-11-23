@@ -1,6 +1,3 @@
-Sicher, aquí está la extensión del JSON con la nueva información:
-
-```json
 [
     {
         "term": "Künstliche Intelligenz",
@@ -86,4 +83,46 @@ Sicher, aquí está la extensión del JSON con la nueva información:
         ]
     },
     {
-        "
+        "term": "Natural Language Processing (NLP) (Natürliche Sprachverarbeitung)",
+        "definition": "Natural Language Processing (NLP) ist eine Teildisziplin der künstlichen Intelligenz, Informatik und Linguistik, die sich darauf konzentriert, menschliche Kommunikation, wie Sprache und Text, für Computer verständlich zu machen.",
+        "explanation": "NLP wird in einer Vielzahl von Alltagsprodukten und -dienstleistungen verwendet. Es ermöglicht beispielsweise sprachgesteuerte digitale Assistenten auf Smartphones, E-Mail-Scan-Programme zur Identifizierung von Spam und Übersetzungs-Apps, die fremde Sprachen entschlüsseln.",
+        "examples": [
+            "Sprachassistenten auf Smartphones",
+            "Spam-Erkennung in E-Mails"
+        ]
+    },
+    {
+        "term": "Computer Vision (Computersehen)",
+        "definition": "Computer Vision ist ein Bereich der künstlichen Intelligenz (KI), der es Computern ermöglicht, aussagekräftige Informationen aus digitalen Bildern, Videos und anderen visuellen Eingaben zu extrahieren und basierend darauf Maßnahmen zu ergreifen oder Empfehlungen abzugeben.",
+        "explanation": "Ähnlich dem menschlichen Sehvermögen ermöglicht Computer Vision Maschinen das 'Sehen', Beobachten und Verstehen. Trainiert durch Kameras, Daten und Algorithmen, kann es in verschiedenen Branchen eingesetzt werden, von der Energie- bis zur Fertigungsindustrie.",
+        "examples": [
+            "Bildklassifizierung in der Produktion",
+            "Objekterkennung für autonomes Fahren"
+        ]
+    },
+    {
+        "term": "Deep Learning",
+        "definition": "Deep Learning ist eine Technologie, die Maschinen ermöglicht, eigenständig aus Daten zu lernen. Dabei imitiert sie das menschliche Gehirn durch komplexe neuronale Netze mit vielen versteckten Schichten.",
+        "explanation": "Deep Learning macht Computer schlau, indem es ihnen erlaubt, aus Informationen zu lernen. Es benutzt neuronale Netze, die wie das menschliche Gehirn aufgebaut sind, um Muster zu erkennen und Entscheidungen zu treffen.",
+        "examples": [
+            "Selbstständiges Lernen von Bildern"
+        ]
+    },
+    {
+        "term": "Bias in AI (Voreingenommenheit in KI)",
+        "definition": "Machine Learning Bias, auch als Algorithmus-Bias oder KI-Bias bekannt, bezieht sich darauf, dass Algorithmen menschliche Vorurteile widerspiegeln können.",
+        "explanation": "Machine Learning Bias ist wie ein unsichtbares Vorurteil in Computern. Algorithmen können verzerrte Ergebnisse produzieren, wenn sie auf nicht repräsentativen Daten trainiert werden, was zu Ungleichheiten führen kann.",
+        "examples": [
+            "Gesundheitsalgorithmus in den USA"
+        ]
+    },
+    {
+        "term": "Data Mining",
+        "definition": "Data Mining ist ein interdisziplinärer Ansatz, der Informatik und Statistik verbindet, oft unter Verwendung von Methoden aus künstlicher Intelligenz und maschinellem Lernen.",
+        "explanation": "Data Mining ist wie ein datenbasiertes Detektivspiel, bei dem Computer nach verborgenen Mustern suchen. Es nutzt Techniken wie Klassifikation, Prognose, Gruppierung und Abhängigkeitsentdeckung, um wertvolle Informationen aus großen Datensätzen zu gewinnen.",
+        "examples": [
+            "Klassifikation für Produktaffinitäten",
+            "Prognose für zukünftige Umsätze"
+        ]
+    }
+]
