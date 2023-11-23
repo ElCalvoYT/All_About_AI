@@ -1,10 +1,13 @@
+Sicher, aquí está la extensión del JSON con la nueva información:
+
+```json
 [
     {
         "term": "Künstliche Intelligenz",
         "definition": "Die Fähigkeit einer Maschine, Aufgaben zu erledigen, die normalerweise menschliche Intelligenz erfordern, wie das Lernen, das Verstehen von natürlicher Sprache und das Problemlösen.",
         "explanation": "Künstliche Intelligenz (KI) ermöglicht es Maschinen, komplexe Aufgaben zu erledigen, die traditionell menschlicher Intelligenz vorbehalten sind. Sie basiert auf Algorithmen, die Muster in Daten erkennen und daraus lernen können.",
         "examples": [
-            "Spracherkennungssysteme",
+            "Automatisierte Spracherkennungssysteme",
             "Bilderkennung in der Medizin"
         ]
     },
@@ -23,10 +26,64 @@
         "explanation": "Neuronale Netze sind eine Grundlage der KI und funktionieren sehr ähnlich wie unsere Neuronen, dadurch entsteht der Name „Neuronale Netzwerke“, da es sich ähnelt wie der Menschliche Gehirn.",
         "examples": [
             "Autonomes Fahren",
+            "Frühwarnsysteme",
             "Bilderkennung",
             "Betrugserkennung",
             "Medizinische Analysen",
             "Wettervorhersagen"
         ]
-    }
-]
+    },
+    {
+        "term": "Algorithmus",
+        "definition": "Ein Algorithmus ist eine Anleitung. Er gibt dir Schritt für Schritt vor, wie du ein bestimmtes Problem lösen kannst. Dabei besteht er aus mehreren Einzelschritten.",
+        "explanation": "Algorithmen sind da, um bestimmte Probleme zu lösen, und das machen sie, indem schritt pro schritt dir alles erklären. Alles immer in die gleiche Reinfolge. Hauptsächlich werden Algorithmen in der Informatik verwendet und in Form von Programmen dargestellt.",
+        "examples": [
+            "Google-Suchalgorithmus",
+            "Rezepte beim Kochen befolgen"
+        ]
+    },
+    {
+        "term": "Datenanalyse",
+        "definition": "Datenanalyse bezieht sich auf den Prozess, bei dem statistische Methoden verwendet werden, um Informationen aus vorhandenen Daten zu gewinnen. In der Geschäftswelt dient dies als Grundlage für fundierte Entscheidungen.",
+        "explanation": "Stell dir vor, Daten sind wie Puzzleteile, die überall in einem Unternehmen verstreut sind. Die Datenanalyse ist wie das Zusammenfügen dieser Teile, um ein vollständiges Bild zu erhalten. Unternehmen verwenden spezielle Techniken, um die bereits vorhandenen Daten zu verstehen, zu interpretieren und daraus wertvolle Informationen zu gewinnen. Dieser Prozess hilft Unternehmen, kluge Entscheidungen zu treffen, ihre bisherigen Schritte zu überprüfen und Risiken zu minimieren.",
+        "examples": [
+            "Marketingprognosen",
+            "HR-Optimierung",
+            "Customer Experience Management"
+        ]
+    },
+    {
+        "term": "Supervised Learning (Überwachtes Lernen)",
+        "definition": "Supervised learning, a subset of machine learning, uses labeled datasets to train algorithms for accurate data classification or outcome prediction in artificial intelligence.",
+        "explanation": "Supervised learning, auch bekannt als überwachtes Lernen, nutzt beschriftete Datensätze, um Algorithmen zu trainieren. Diese klassifizieren Daten oder sagen Ergebnisse präzise voraus, indem sie ihre Gewichtungen anpassen und Fehler minimieren.",
+        "examples": [
+            "Klassifizierung von Spam in E-Mails"
+        ]
+    },
+    {
+        "term": "Unsupervised Learning (Unüberwachtes Lernen)",
+        "definition": "Unsupervised learning, a branch of machine learning, employs algorithms to analyze and cluster unlabeled datasets, revealing hidden patterns without human guidance.",
+        "explanation": "Unsupervised learning erkennt Muster und Gruppierungen in Daten, ohne vorherige Kennzeichnung. Es eignet sich ideal für explorative Datenanalysen, Kundensegmentierung und Bilderkennung.",
+        "examples": [
+            "Explorative Datenanalysen",
+            "Cross-Selling-Strategien"
+        ]
+    },
+    {
+        "term": "Reinforcement Learning (RL) (Verstärkendes Lernen)",
+        "definition": "Reinforcement Learning ist eine Methode des maschinellen Lernens, bei der ein Agent eigenständig eine Strategie entwickelt, um durch Trial-and-Error Aktionen auszuführen und Belohnungen zu maximieren.",
+        "explanation": "Im Gegensatz zu überwachtem Lernen benötigt RL keine vorherigen Daten. Der Agent lernt durch wiederholte Versuche in einer simulierten Umgebung und passt seine Strategie an, um positive Belohnungen zu erhalten.",
+        "examples": [
+            "Training einer Katze, einen Trick auszuführen"
+        ]
+    },
+    {
+        "term": "Chatbot",
+        "definition": "Chatbots, auch als Chatterbots oder digitale Assistenten bekannt, sind technische Dialogsysteme, die in der Lage sind, mit Menschen zu interagieren.",
+        "explanation": "Chatbots ermöglichen Benutzern, über eine Eingabezeile oder sogar Audioeingabe Fragen zu stellen, auf die der Bot automatisch antwortet, ähnlich wie bei einer Suchmaschine. Sie werden oft mit einem Avatar verbunden, um eine Persönlichkeit zu verleihen.",
+        "examples": [
+            "Melibot, digitaler Assistent auf dieser Website"
+        ]
+    },
+    {
+        "
