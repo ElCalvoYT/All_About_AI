@@ -124,5 +124,55 @@
             "Klassifikation für Produktaffinitäten",
             "Prognose für zukünftige Umsätze"
         ]
-    }
+    },
+    [
+  {
+    "term": "Genetische Algorithmen",
+    "definition": "Genetische Algorithmen sind spezielle Computerprogramme, die sich von der biologischen Evolution inspirieren lassen, um komplexe Probleme zu lösen.",
+    "explanation": "Genetische Algorithmen sind wie virtuelle Evolutionssimulatoren. Sie kombinieren und verbessern schrittweise Lösungen, ähnlich der natürlichen Anpassung von Lebewesen im Laufe der Zeit.",
+    "examples": [
+      "Optimierung von Flugzeugdesigns",
+      "Effizienzverbesserung von Brückenkomponenten in der Bauindustrie"
+    ]
+  },
+  {
+    "term": "Predictive Analytics",
+    "definition": "Predictive Analytics ist eine Methode, die von Unternehmen verwendet wird, um zukünftige Ereignisse oder Verhaltensweisen anhand von historischen Daten vorherzusagen. Dabei werden Techniken aus Statistik, Datenanalyse, künstlicher Intelligenz (KI) und maschinellem Lernen genutzt, um Unternehmen bei aktuellen Entscheidungen zu unterstützen.",
+    "explanation": "Predictive Analytics ist wie ein Blick in die Zukunft für Unternehmen. Anhand vergangener Daten werden Muster erkannt, um potenzielle zukünftige Ereignisse oder Verhaltensweisen vorherzusagen. Das ermöglicht Unternehmen, sich optimal auf kommende Entwicklungen vorzubereiten.",
+    "examples": [
+      "Einzelhandel (z.B., Produktkombinationsvorhersagen, Kundenbindung)"
+    ]
+  },
+  {
+    "term": "Fuzzy Logic",
+    "definition": "Fuzzy Logic ist ein Ansatz in der Datenverarbeitung, der auf Wahrheitsgraden basiert und Abstufungen von Wahrheit zulässt, im Gegensatz zur klaren binären Logik von 0 und 1.",
+    "explanation": "Fuzzy Logic wurde in den 1960er Jahren von Lotfi Zadeh entwickelt, um das Problem der natürlichen Sprachverarbeitung in Computern zu lösen. Anstatt nur mit absoluten Werten zu arbeiten, erlaubt Fuzzy Logic Zwischenzustände, was besonders in Situationen mit ungenauen Daten oder Unsicherheiten nützlich ist.",
+    "examples": [
+      "Künstliche Intelligenz (z.B., Anwendung in Supercomputern wie IBM Watson)"
+    ]
+  },
+  {
+    "term": "Swarm Intelligence",
+    "definition": "Schwarmintelligenz nutzt Beispiele aus der Natur als Modelle für dezentrales Lernen und Entscheidungsfindung, ähnlich wie Gruppen von Vögeln oder Fischen. Künstliche Intelligenz überträgt diese Prinzipien für dynamische, aggregierte Analysen.",
+    "explanation": "Schwarmintelligenz ist kollektives Lernen und Entscheiden durch dezentrale, selbstorganisierte Systeme. Beispielsweise handeln Vogelschwärme als Gruppen, ohne Anleitung von einem Anführer, und eine einzelne Eingabe kann das Verhalten der ganzen Gruppe beeinflussen.",
+    "examples": [
+      "Künstliche Intelligenz (z.B., Netzwerke von Endgeräten, selbstfahrende Autos)"
+    ]
+  },
+  {
+    "term": "Blockchain in AI",
+    "definition": "Blockchain ist wie ein digitales, gemeinsam genutztes Konto, das es verschiedenen Parteien ermöglicht, sicher und transparent verschlüsselte Daten auszutauschen. Es verfolgt Bestellungen, Zahlungen, Konten und mehr, wodurch genehmigte Mitglieder Vertrauen in Transaktionen gewinnen und Effizienzen steigern.",
+    "explanation": "Blockchain ermöglicht es, Daten sicher und transparent zwischen verschiedenen Parteien auszutauschen, indem es eine dezentrale und unveränderliche Aufzeichnung verwendet. Dies fördert Vertrauen und Effizienz, insbesondere wenn es um komplexe Transaktionen wie im Finanzwesen oder in Lieferketten geht.",
+    "examples": [
+      "Gesundheitswesen (z.B., Patientendatenmanagement, Medikamenten-Lieferkette in den Biowissenschaften)"
+    ]
+  },
+  {
+    "term": "Explainable AI",
+    "definition": "Explainable AI (XAI) befasst sich damit, die Frage nach der Erklärbarkeit von künstlicher Intelligenz zu beantworten. Es geht darum zu verstehen, wie und warum KI-Algorithmen Entscheidungen treffen.",
+    "explanation": "Explainable AI ist wie ein Fenster in den Denkprozess von KI. Es ermöglicht, die Gründe hinter den Entscheidungen zu verstehen, indem Algorithmen transparent arbeiten oder im Nachhinein erklären, warum sie so entschieden haben.",
+    "examples": [
+      "Künstliche Intelligenz (z.B., Vertrauensbildung in Entscheidungen von komplexen Algorithmen)"
+    ]
+  }
 ]
