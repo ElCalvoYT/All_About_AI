@@ -167,11 +167,11 @@
         ]
     },
     {
-        "term": "Explainable AI",
-        "definition": "Explainable AI (XAI) befasst sich damit, die Frage nach der Erklärbarkeit von künstlicher Intelligenz zu beantworten. Es geht darum zu verstehen, wie und warum KI-Algorithmen Entscheidungen treffen.",
-        "explanation": "Explainable AI ist wie ein Fenster in den Denkprozess von KI. Es ermöglicht, die Gründe hinter den Entscheidungen zu verstehen, indem Algorithmen transparent arbeiten oder im Nachhinein erklären, warum sie so entschieden haben.",
-        "examples": [
-          "Künstliche Intelligenz (z.B., Vertrauensbildung in Entscheidungen von komplexen Algorithmen)"
-        ]
+      "term": "Explainable AI",
+      "definition": "Explainable AI (XAI) befasst sich damit, die Frage nach der Erklärbarkeit von künstlicher Intelligenz zu beantworten. Es geht darum zu verstehen, wie und warum KI-Algorithmen Entscheidungen treffen.",
+      "explanation": "Explainable AI ist wie ein Fenster in den Denkprozess von KI. Es ermöglicht, die Gründe hinter den Entscheidungen zu verstehen, indem Algorithmen transparent arbeiten oder im Nachhinein erklären, warum sie so entschieden haben.",
+      "examples": [
+        "Künstliche Intelligenz (z.B., Vertrauensbildung in Entscheidungen von komplexen Algorithmen)"
+      ]
     }
 ]
