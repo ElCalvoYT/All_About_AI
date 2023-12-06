@@ -20,6 +20,9 @@ document.addEventListener("DOMContentLoaded", async function () {
         main.appendChild(section);
     });
 
+    // Igualar alturas después de renderizar las tarjetas
+    equalizeCardHeights();
+
     // Agregar funcionalidad de búsqueda
     const searchInput = document.getElementById("searchInput");
 
@@ -35,5 +38,53 @@ document.addEventListener("DOMContentLoaded", async function () {
             const term = section.querySelector("h2").textContent.toLowerCase();
             section.style.display = term.includes(searchTerm) ? "block" : "none";
         });
+
+        // Igualar alturas después de filtrar las tarjetas
+        equalizeCardHeights();
     });
 });
+
+function equalizeCardHeights() {
+    // Obtén todas las tarjetas
+    const cards = document.querySelectorAll('.section');
+
+    // Restablece las alturas antes de recalcular
+    cards.forEach(card => {
+        card.style.height = 'auto';
+    });
+
+    // Agrupa las tarjetas por fila
+    const rows = groupByRow(cards);
+
+    // Para cada fila, encuentra la altura máxima y aplícala a todas las tarjetas en esa fila
+    rows.forEach(row => {
+        const maxHeight = Math.max(...row.map(card => card.offsetHeight));
+        row.forEach(card => {
+            card.style.height = maxHeight + 'px';
+        });
+    });
+}
+
+function groupByRow(cards) {
+    const rows = [];
+    let currentRow = [];
+    let currentTop = null;
+
+    cards.forEach(card => {
+        const rect = card.getBoundingClientRect();
+        if (currentTop === null || rect.top === currentTop) {
+            currentRow.push(card);
+        } else {
+            rows.push(currentRow);
+            currentRow = [card];
+        }
+        currentTop = rect.top;
+    });
+
+    // Agrega la última fila
+    if (currentRow.length > 0) {
+        rows.push(currentRow);
+    }
+
+    return rows;
+}

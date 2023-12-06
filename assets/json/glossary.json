@@ -29,5 +29,149 @@
             "Medizinische Analysen",
             "Wettervorhersagen"
         ]
+    },
+    {
+        "term": "Algorithmus",
+        "definition": "Ein Algorithmus ist eine Anleitung. Er gibt dir Schritt für Schritt vor, wie du ein bestimmtes Problem lösen kannst. Dabei besteht er aus mehreren Einzelschritten.",
+        "explanation": "Algorithmen sind da, um bestimmte Probleme zu lösen, und das machen sie, indem schritt pro schritt dir alles erklären. Alles immer in die gleiche Reinfolge. Hauptsächlich werden Algorithmen in der Informatik verwendet und in Form von Programmen dargestellt.",
+        "examples": [
+            "Google-Suchalgorithmus",
+            "Rezepte beim Kochen befolgen"
+        ]
+    },
+    {
+        "term": "Datenanalyse",
+        "definition": "Datenanalyse bezieht sich auf den Prozess, bei dem statistische Methoden verwendet werden, um Informationen aus vorhandenen Daten zu gewinnen. In der Geschäftswelt dient dies als Grundlage für fundierte Entscheidungen.",
+        "explanation": "Stell dir vor, Daten sind wie Puzzleteile, die überall in einem Unternehmen verstreut sind. Die Datenanalyse ist wie das Zusammenfügen dieser Teile, um ein vollständiges Bild zu erhalten. Unternehmen verwenden spezielle Techniken, um die bereits vorhandenen Daten zu verstehen, zu interpretieren und daraus wertvolle Informationen zu gewinnen. Dieser Prozess hilft Unternehmen, kluge Entscheidungen zu treffen, ihre bisherigen Schritte zu überprüfen und Risiken zu minimieren.",
+        "examples": [
+            "Marketingprognosen",
+            "HR-Optimierung",
+            "Customer Experience Management"
+        ]
+    },
+    {
+        "term": "Supervised Learning (Überwachtes Lernen)",
+        "definition": "Supervised learning, a subset of machine learning, uses labeled datasets to train algorithms for accurate data classification or outcome prediction in artificial intelligence.",
+        "explanation": "Supervised learning, auch bekannt als überwachtes Lernen, nutzt beschriftete Datensätze, um Algorithmen zu trainieren. Diese klassifizieren Daten oder sagen Ergebnisse präzise voraus, indem sie ihre Gewichtungen anpassen und Fehler minimieren.",
+        "examples": [
+            "Klassifizierung von Spam in E-Mails"
+        ]
+    },
+    {
+        "term": "Unsupervised Learning (Unüberwachtes Lernen)",
+        "definition": "Unsupervised learning, a branch of machine learning, employs algorithms to analyze and cluster unlabeled datasets, revealing hidden patterns without human guidance.",
+        "explanation": "Unsupervised learning erkennt Muster und Gruppierungen in Daten, ohne vorherige Kennzeichnung. Es eignet sich ideal für explorative Datenanalysen, Kundensegmentierung und Bilderkennung.",
+        "examples": [
+            "Explorative Datenanalysen",
+            "Cross-Selling-Strategien"
+        ]
+    },
+    {
+        "term": "Reinforcement Learning (RL) (Verstärkendes Lernen)",
+        "definition": "Reinforcement Learning ist eine Methode des maschinellen Lernens, bei der ein Agent eigenständig eine Strategie entwickelt, um durch Trial-and-Error Aktionen auszuführen und Belohnungen zu maximieren.",
+        "explanation": "Im Gegensatz zu überwachtem Lernen benötigt RL keine vorherigen Daten. Der Agent lernt durch wiederholte Versuche in einer simulierten Umgebung und passt seine Strategie an, um positive Belohnungen zu erhalten.",
+        "examples": [
+            "Training einer Katze, einen Trick auszuführen"
+        ]
+    },
+    {
+        "term": "Chatbot",
+        "definition": "Chatbots, auch als Chatterbots oder digitale Assistenten bekannt, sind technische Dialogsysteme, die in der Lage sind, mit Menschen zu interagieren.",
+        "explanation": "Chatbots ermöglichen Benutzern, über eine Eingabezeile oder sogar Audioeingabe Fragen zu stellen, auf die der Bot automatisch antwortet, ähnlich wie bei einer Suchmaschine. Sie werden oft mit einem Avatar verbunden, um eine Persönlichkeit zu verleihen.",
+        "examples": [
+            "Melibot, digitaler Assistent auf dieser Website"
+        ]
+    },
+    {
+        "term": "Natural Language Processing (NLP) (Natürliche Sprachverarbeitung)",
+        "definition": "Natural Language Processing (NLP) ist eine Teildisziplin der künstlichen Intelligenz, Informatik und Linguistik, die sich darauf konzentriert, menschliche Kommunikation, wie Sprache und Text, für Computer verständlich zu machen.",
+        "explanation": "NLP wird in einer Vielzahl von Alltagsprodukten und -dienstleistungen verwendet. Es ermöglicht beispielsweise sprachgesteuerte digitale Assistenten auf Smartphones, E-Mail-Scan-Programme zur Identifizierung von Spam und Übersetzungs-Apps, die fremde Sprachen entschlüsseln.",
+        "examples": [
+            "Sprachassistenten auf Smartphones",
+            "Spam-Erkennung in E-Mails"
+        ]
+    },
+    {
+        "term": "Computer Vision (Computersehen)",
+        "definition": "Computer Vision ist ein Bereich der künstlichen Intelligenz (KI), der es Computern ermöglicht, aussagekräftige Informationen aus digitalen Bildern, Videos und anderen visuellen Eingaben zu extrahieren und basierend darauf Maßnahmen zu ergreifen oder Empfehlungen abzugeben.",
+        "explanation": "Ähnlich dem menschlichen Sehvermögen ermöglicht Computer Vision Maschinen das 'Sehen', Beobachten und Verstehen. Trainiert durch Kameras, Daten und Algorithmen, kann es in verschiedenen Branchen eingesetzt werden, von der Energie- bis zur Fertigungsindustrie.",
+        "examples": [
+            "Bildklassifizierung in der Produktion",
+            "Objekterkennung für autonomes Fahren"
+        ]
+    },
+    {
+        "term": "Deep Learning",
+        "definition": "Deep Learning ist eine Technologie, die Maschinen ermöglicht, eigenständig aus Daten zu lernen. Dabei imitiert sie das menschliche Gehirn durch komplexe neuronale Netze mit vielen versteckten Schichten.",
+        "explanation": "Deep Learning macht Computer schlau, indem es ihnen erlaubt, aus Informationen zu lernen. Es benutzt neuronale Netze, die wie das menschliche Gehirn aufgebaut sind, um Muster zu erkennen und Entscheidungen zu treffen.",
+        "examples": [
+            "Selbstständiges Lernen von Bildern"
+        ]
+    },
+    {
+        "term": "Bias in AI (Voreingenommenheit in KI)",
+        "definition": "Machine Learning Bias, auch als Algorithmus-Bias oder KI-Bias bekannt, bezieht sich darauf, dass Algorithmen menschliche Vorurteile widerspiegeln können.",
+        "explanation": "Machine Learning Bias ist wie ein unsichtbares Vorurteil in Computern. Algorithmen können verzerrte Ergebnisse produzieren, wenn sie auf nicht repräsentativen Daten trainiert werden, was zu Ungleichheiten führen kann.",
+        "examples": [
+            "Gesundheitsalgorithmus in den USA"
+        ]
+    },
+    {
+        "term": "Data Mining",
+        "definition": "Data Mining ist ein interdisziplinärer Ansatz, der Informatik und Statistik verbindet, oft unter Verwendung von Methoden aus künstlicher Intelligenz und maschinellem Lernen.",
+        "explanation": "Data Mining ist wie ein datenbasiertes Detektivspiel, bei dem Computer nach verborgenen Mustern suchen. Es nutzt Techniken wie Klassifikation, Prognose, Gruppierung und Abhängigkeitsentdeckung, um wertvolle Informationen aus großen Datensätzen zu gewinnen.",
+        "examples": [
+            "Klassifikation für Produktaffinitäten",
+            "Prognose für zukünftige Umsätze"
+        ]
+    },
+    {
+        "term": "Genetische Algorithmen",
+        "definition": "Genetische Algorithmen sind spezielle Computerprogramme, die sich von der biologischen Evolution inspirieren lassen, um komplexe Probleme zu lösen.",
+        "explanation": "Genetische Algorithmen sind wie virtuelle Evolutionssimulatoren. Sie kombinieren und verbessern schrittweise Lösungen, ähnlich der natürlichen Anpassung von Lebewesen im Laufe der Zeit.",
+        "examples": [
+            "Optimierung von Flugzeugdesigns",
+            "Effizienzverbesserung von Brückenkomponenten in der Bauindustrie"
+        ]
+    },
+    {
+        "term": "Predictive Analytics",
+        "definition": "Predictive Analytics ist eine Methode, die von Unternehmen verwendet wird, um zukünftige Ereignisse oder Verhaltensweisen anhand von historischen Daten vorherzusagen. Dabei werden Techniken aus Statistik, Datenanalyse, künstlicher Intelligenz (KI) und maschinellem Lernen genutzt, um Unternehmen bei aktuellen Entscheidungen zu unterstützen.",
+        "explanation": "Predictive Analytics ist wie ein Blick in die Zukunft für Unternehmen. Anhand vergangener Daten werden Muster erkannt, um potenzielle zukünftige Ereignisse oder Verhaltensweisen vorherzusagen. Das ermöglicht Unternehmen, sich optimal auf kommende Entwicklungen vorzubereiten.",
+        "examples": [
+            "Einzelhandel (z.B., Produktkombinationsvorhersagen, Kundenbindung)"
+        ]
+    },
+    {
+        "term": "Fuzzy Logic",
+        "definition": "Fuzzy Logic ist ein Ansatz in der Datenverarbeitung, der auf Wahrheitsgraden basiert und Abstufungen von Wahrheit zulässt, im Gegensatz zur klaren binären Logik von 0 und 1.",
+        "explanation": "Fuzzy Logic wurde in den 1960er Jahren von Lotfi Zadeh entwickelt, um das Problem der natürlichen Sprachverarbeitung in Computern zu lösen. Anstatt nur mit absoluten Werten zu arbeiten, erlaubt Fuzzy Logic Zwischenzustände, was besonders in Situationen mit ungenauen Daten oder Unsicherheiten nützlich ist.",
+        "examples": [
+            "Künstliche Intelligenz (z.B., Anwendung in Supercomputern wie IBM Watson)"
+        ]
+    },
+    {
+        "term": "Swarm Intelligence",
+        "definition": "Schwarmintelligenz nutzt Beispiele aus der Natur als Modelle für dezentrales Lernen und Entscheidungsfindung, ähnlich wie Gruppen von Vögeln oder Fischen. Künstliche Intelligenz überträgt diese Prinzipien für dynamische, aggregierte Analysen.",
+        "explanation": "Schwarmintelligenz ist kollektives Lernen und Entscheiden durch dezentrale, selbstorganisierte Systeme. Beispielsweise handeln Vogelschwärme als Gruppen, ohne Anleitung von einem Anführer, und eine einzelne Eingabe kann das Verhalten der ganzen Gruppe beeinflussen.",
+        "examples": [
+          "Künstliche Intelligenz (z.B., Netzwerke von Endgeräten, selbstfahrende Autos)"
+        ]
+    },
+    {
+        "term": "Blockchain in AI",
+        "definition": "Blockchain ist wie ein digitales, gemeinsam genutztes Konto, das es verschiedenen Parteien ermöglicht, sicher und transparent verschlüsselte Daten auszutauschen. Es verfolgt Bestellungen, Zahlungen, Konten und mehr, wodurch genehmigte Mitglieder Vertrauen in Transaktionen gewinnen und Effizienzen steigern.",
+        "explanation": "Blockchain ermöglicht es, Daten sicher und transparent zwischen verschiedenen Parteien auszutauschen, indem es eine dezentrale und unveränderliche Aufzeichnung verwendet. Dies fördert Vertrauen und Effizienz, insbesondere wenn es um komplexe Transaktionen wie im Finanzwesen oder in Lieferketten geht.",
+        "examples": [
+          "Gesundheitswesen (z.B., Patientendatenmanagement, Medikamenten-Lieferkette in den Biowissenschaften)"
+        ]
+    },
+    {
+      "term": "Explainable AI",
+      "definition": "Explainable AI (XAI) befasst sich damit, die Frage nach der Erklärbarkeit von künstlicher Intelligenz zu beantworten. Es geht darum zu verstehen, wie und warum KI-Algorithmen Entscheidungen treffen.",
+      "explanation": "Explainable AI ist wie ein Fenster in den Denkprozess von KI. Es ermöglicht, die Gründe hinter den Entscheidungen zu verstehen, indem Algorithmen transparent arbeiten oder im Nachhinein erklären, warum sie so entschieden haben.",
+      "examples": [
+        "Künstliche Intelligenz (z.B., Vertrauensbildung in Entscheidungen von komplexen Algorithmen)"
+      ]
     }
 ]

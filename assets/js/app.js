@@ -1,9 +1,3 @@
-/* Hero section */
-const learn_more_button = document.getElementById("learn_more");
-learn_more_button.addEventListener("click", () => {
-    window.location.href = "#main";
-});
-
 /* Fill in the diferent cards */
 
 document.addEventListener("DOMContentLoaded", function () {
