@@ -187,7 +187,7 @@ section{
             transition: 0.25s;
 
             &:hover{
-                transform: translateY(-25px);
+                transform: translateY(-20px);
             }
     
             & .classifier{
@@ -291,6 +291,7 @@ main{
             transition: 0.5s;
 
             & h2{
+                text-transform: capitalize;
                 font-size: 1.5em;
                 font-weight: 700;
                 color: var(--color-white);
