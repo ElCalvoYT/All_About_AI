@@ -25,6 +25,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 p.textContent = cardData.description;
                 const a = document.createElement('a');
                 a.href = cardData.link;
+                if (card.download == true) {
+                    a.download = true;
+                }
                 a.textContent = 'Mehr Lesen';
 
                 content.appendChild(h2);
